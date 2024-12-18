@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Miranda Peak"
-  Content = "Just a chronically ill programmer with a failing career"
+  Content = "< Insert cheesy personal slogan here >"
 
   [[params.socialIcons]]
   name = "github"
