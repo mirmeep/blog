@@ -1,8 +1,6 @@
 {{ define "main" }}
     {{ range .Pages }}
-    <div class="container">
-        <img src="{{ .Site.BaseURL }}images/photos/{{ .Params.url }}">
-        <br>
-    </div>
+    <img src="{{ .Site.BaseURL }}images/photos/{{ .Params.url }}">
+    <br>
     {{ end }}
 {{ end }}
