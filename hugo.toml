@@ -102,19 +102,19 @@ tocopen = false
 
 [[menu.main]]
 identifier = "categories"
-name = "categories"
+name = "Categories"
 url = "/categories/"
 weight = 10
 
 [[menu.main]]
 identifier = "tags"
-name = "tags"
+name = "Tags"
 url = "/tags/"
 weight = 20
 
 [[menu.main]]
 identifier = "photos"
-name = "photos"
+name = "Photography"
 url = "/photos/"
 weight= 5
 
@@ -122,3 +122,7 @@ weight= 5
 [markup.highlight]
 noClasses = false
 
+[module]
+    [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
