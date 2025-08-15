@@ -112,6 +112,13 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
+[[menu.main]]
+identifier = "photos"
+name = "photos"
+url = "/photos/"
+weight= 5
+
+
 [markup.highlight]
 noClasses = false
 
