@@ -124,5 +124,5 @@ noClasses = false
 
 [module]
     [[module.mounts]]
-    source = 'assets'
-    target = 'assets'
+    source = '/assets/'
+    target = '/assets/'
