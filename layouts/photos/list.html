@@ -1,6 +1,8 @@
 {{ define "main" }}
     {{ range .Pages }}
-    <img src="{{ .Site.BaseURL }}images/photos/{{ .Params.url }}">
-    <br>
+        {{ with .Params.image}}
+        <img src="{{ . | absURL}}">
+        <br>
+        {{ end }}
     {{ end }}
 {{ end }}
