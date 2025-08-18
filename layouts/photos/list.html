@@ -1,0 +1,11 @@
+{{- define "main" }}
+    {{ .Content }}
+    {{ range .Pages }}
+        <a href="{{ .Permalink }}">
+            {{ with .Params.image}}
+            <img src="{{ . | absURL}}">
+            <br>
+            {{ end }}
+        </a>
+    {{ end }}  
+{{- end }}

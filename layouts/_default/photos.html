@@ -1,8 +1,0 @@
-{{- define "main" }}
-    {{ range .Pages }}
-        {{ with .Params.image}}
-        <img src="{{ . | absURL}}">
-        <br>
-        {{ end }}
-    {{ end }}
-{{- end }}

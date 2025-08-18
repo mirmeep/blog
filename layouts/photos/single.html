@@ -1,0 +1,9 @@
+{{- define "main" }}
+    {{ with .Params.image}}
+    <img src="{{ . | absURL}}">
+    <br>
+    {{ end }}
+    {{ .Params.title }}
+    <br>
+    {{ .Params.camera }}
+{{- end }}
