@@ -1,11 +1,13 @@
 {{- define "main" }}
-    {{ .Content }}
+    <div class="post-description">{{ .Content }}</div>
     {{ range .Pages }}
+        <div class="post-header">
         <a href="{{ .Permalink }}">
             {{ with .Params.image}}
             <img src="{{ . | absURL}}">
             <br>
             {{ end }}
         </a>
+        </div>
     {{ end }}  
 {{- end }}
