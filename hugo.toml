@@ -112,11 +112,11 @@ name = "Tags"
 url = "/tags/"
 weight = 20
 
-[[menu.main]]
-identifier = "photos"
-name = "Photography"
-url = "/photos/"
-weight= 5
+# [[menu.main]]
+# identifier = "photos"
+# name = "Photography"
+# url = "/photos/"
+# weight= 5
 
 
 [markup.highlight]
