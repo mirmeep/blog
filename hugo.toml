@@ -128,10 +128,5 @@ weight = 20
 [markup.highlight]
 noClasses = false
 
-[markup.goldmark.renderHooks.image]
-useEmbedded = 'fallback'
-
-[module]
-    [[module.mounts]]
-    source = 'assets'
-    target = 'assets'
+[markup.goldmark.renderer]
+  unsafe = true
