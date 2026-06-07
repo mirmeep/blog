@@ -1,4 +1,4 @@
-baseURL = 'https://mirmeep.github.io/blog/'
+baseURL = 'https://mirmeep.github.io/blog'
 languageCode = 'en-us'
 title = 'Miranda Peak'
 theme = 'PaperMod'
