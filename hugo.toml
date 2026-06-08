@@ -131,3 +131,11 @@ noClasses = false
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
