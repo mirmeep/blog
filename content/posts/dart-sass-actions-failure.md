@@ -1,7 +1,7 @@
 +++
 title = 'HUGO GitHub Actions Deployment Failure with Dart-Sass'
 date = 2026-05-29T14:44:13-07:00
-tags = ["github"]
+tags = ["hugo", "github", "github-actions", "workflow-config"]
 draft = false
 +++
 
