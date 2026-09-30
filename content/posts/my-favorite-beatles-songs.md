@@ -10,7 +10,7 @@ draft = false
 
 My favorite Beatles song that John wrote- Across the Universe
 
-My favorite Beatles song that paul wrote- Let it Be
+My favorite Beatles song that Paul wrote- Let it Be
 
 My favorite Beatles song that George wrote- While My Guitar Gently Weeps
 
