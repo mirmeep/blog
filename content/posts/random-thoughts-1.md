@@ -7,8 +7,8 @@ draft = false
 
 A Catch 22 I struggle with: 
 
-When you’re too disabled to apply for disability so you end up not getting disability but if you’re *able* to apply for disability, you’re not too disabled and are therefore well enough to have a job.
+When you’re too disabled to apply for disability so you end up not getting disability, but if you’re *able* to apply for disability, you’re not too disabled and are therefore well enough to have a job.
 
 *cries in Should-I-Get-Disability?*
 
-Imagine if this is how the government functioned. Ok, well, it functions like this for the most part, there's not really an argument there <3
+Imagine if this is how the government functioned. I guess there would have to be some level of self awareness for Social Security to enact this Catch 22 rule. God, what a system we live in.
