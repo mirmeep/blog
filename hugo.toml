@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Miranda Peak"
-  Content = 'A Blog Site where you will wonder "who gave this person access to the internet?"'
+  Content = 'A Blog Site where you will wonder "who gave this person access to the internet?". Oh. and I share useful things. Sometimes.'
 
   [[params.socialIcons]]
   name = "github"
