@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Miranda Peak"
-  Content = "A computer scientist striving to design and implement optimized and logically sound algorithms; to take advantage of strong typing; to continuously question and understand the inner workings of abstractions; and to avoid complexity and tech debt by maintaining human readable code through effective refactoring, well thought-out design, and documentation.  "
+  Content = 'A Blog Site where you will wonder "who gave this person access to the internet?"'
 
   [[params.socialIcons]]
   name = "github"
