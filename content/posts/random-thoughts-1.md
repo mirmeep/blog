@@ -11,4 +11,4 @@ When you’re too disabled to apply for disability so you end up not getting dis
 
 *cries in Should-I-Get-Disability?*
 
-Imagine if this is how the government functioned. I guess there would have to be some level of self awareness for Social Security to enact this Catch 22 rule. God, what a system we live in.
+Imagine if this is how the government functioned. I guess there would have to be some level of self awareness for Social Security to enact this Catch 22 rule. I honestly wouldn't put it past them, though. God, what a system we live in.
