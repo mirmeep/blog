@@ -83,7 +83,7 @@ tocopen = false
   [[params.socialIcons]]
   name = "kofi"
   url = "https://ko-fi.com/mirmeep"
-  
+
   [params.cover]
   hidden = true
   hiddenInList = true
@@ -115,6 +115,12 @@ identifier = "tags"
 name = "Tags"
 url = "/tags/"
 weight = 20
+
+[[menu.main]]
+identifier = "store"
+name = "My Art"
+url = "https://mnpprints.store/"
+weight = 30
 
 # [[menu.main]]
 # identifier = "photos"
