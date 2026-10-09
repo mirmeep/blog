@@ -80,6 +80,10 @@ tocopen = false
   name = "linkedin"
   url = "https://www.linkedin.com/in/miranda-peak-34a427188/"
 
+  [[params.socialIcons]]
+  name = "kofi"
+  url = "https://ko-fi.com/mirmeep"
+  
   [params.cover]
   hidden = true
   hiddenInList = true
