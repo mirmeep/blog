@@ -1,0 +1,19 @@
+.typewriter p {
+  float: left;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  font-family: monospace;
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  max-width: max-content;
+  animation: 
+    8s typing 0s steps(50, end) infinite;
+
+}
+
+/* The typing effect */
+@keyframes typing {
+  0% { width: 0 }
+  30%, 70% { width: 100% }
+  80%, 100% { width: 0 }
+}

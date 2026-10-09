@@ -1,0 +1,27 @@
+<div class="typewriter">
+    <p id="typewriter">I share useful things. Sometimes.</p>  
+</div>
+
+<script>
+    const CHAOS = ["I share useful things. Sometimes.", "Who gave this person access to the internet?", "With great power...", "Don't forget to breath.", "You can see your nose.", "Life before death. Strength before weakness. Journey before destination.", "To quote Stanford algorithms expert Donald Knuth, \"Who are you? How did you get in my house?\""]
+
+    const typewriter = document.getElementById("typewriter");
+    typewriter.addEventListener("animationstart", () => {   
+        console.log("animation started")
+    });
+
+    typewriter.addEventListener("animationend", () => {
+        console.log("animation ended");
+        
+    });
+    typewriter.addEventListener("animationiteration", (e) => {
+        if (e.animationName == "typing") {
+            console.log("animation looping again");
+            document.getElementById("typewriter").innerHTML = randomizeText();
+        }     
+    });
+
+    function randomizeText() {
+        return CHAOS[Math.floor(Math.random() * CHAOS.length)];
+    }
+</script>
