@@ -1,6 +1,7 @@
 +++
 title = 'Social Media Requires You to Get On Your Knees and Beg'
 date = 2026-10-16T10:36:40-07:00
+tags = ["satire", "tech"]
 +++
 
 With the recent wave of Instagram bans, Meta has just established a new rule that, in order to submit an appeal, you have to get on your knees and beg.
